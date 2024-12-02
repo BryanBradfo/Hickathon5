@@ -52,6 +52,8 @@ You can also open the notebooks via Google colab:
 
 <!-- ![AquaSmart Solution Logo](/images/logo_startup/aquasmartsolution.png) -->
 
+**Buiness Presentation:** [video link](https://drive.google.com/file/d/1ZsgbfyUFnrIRktJqUcCCRhGZLdSBVJbH/view?usp=sharing)
+
 <img src="./images/logo_startup/aquasmartsolution.png" alt="Description" width="100">
 
 ## Overview 🏞️
